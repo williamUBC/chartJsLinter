@@ -16,9 +16,9 @@
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
-    "@storybook/html": "^5.2.8",
+    "@storybook/html": "^9.1.1",
     "babel-loader": "^8.0.6",
-    "eslint": "^5.16.0",
+    "eslint": "^9.32.0",
     "vuepress": "^1.2.0"
   },
   "dependencies": {
